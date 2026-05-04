@@ -43,7 +43,7 @@ The dashboard helps users quickly understand sales trends, top-performing retail
 ---
 
 ## 📁 Files Included
-- Excel Dashboard File
+- Adidas_Sales_Dashboard.xlsx
 - Dataset (if allowed)
 
 ---
